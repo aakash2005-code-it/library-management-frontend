@@ -1,24 +1,24 @@
-# 📚 Library Management System — Frontend
+# Library Management System — Frontend
 
 A modern, responsive React frontend for a full-stack Library Management System. Features role-based dashboards, real-time search, dark mode, and a clean professional UI inspired by digital library platforms.
 
-🔗 **Backend repo:** [library-management-backend](https://github.com/aakash2005-code-it/library-management-backend)
+**Backend repo:** [library-management-backend](https://github.com/aakash2005-code-it/library-management-backend)
 
 ---
 
 ## Features
 
-- 🔐 **Login & Signup** — JWT-based authentication flow
-- 🔑 **Role-based dashboards** — Admin sees management tools, Members see borrowing tools only
-- 📊 **Live stats dashboard** — total books, members, active loans, unpaid fines
-- 🔍 **Real-time search** — filter books by title, author, or genre
-- 📖 **Book detail modal** — click any book for full stats (borrows, availability)
-- 👤 **Member profile modal** — view any member's borrowing history and fines
-- ⚠️ **Overdue alerts** — prominent banner for books past due date
-- 📄 **Pagination** — clean browsing for large book collections
-- 🌙 **Dark mode** — full theme toggle across the entire app
-- 📱 **Mobile responsive** — adapts cleanly to phone and tablet screens
-- 🧭 **Smooth-scroll navbar** — quick navigation to Books, Members, Transactions, Admin sections
+- **Login & Signup** — JWT-based authentication flow
+- **Role-based dashboards** — Admin sees management tools, Members see borrowing tools only
+- **Live stats dashboard** — total books, members, active loans, unpaid fines
+- **Real-time search** — filter books by title, author, or genre
+- **Book detail modal** — click any book for full stats (borrows, availability)
+- **Member profile modal** — view any member's borrowing history and fines
+- **Overdue alerts** — prominent banner for books past due date
+- **Pagination** — clean browsing for large book collections
+- **Dark mode** — full theme toggle across the entire app
+- **Mobile responsive** — adapts cleanly to phone and tablet screens
+- **Smooth-scroll navbar** — quick navigation to Books, Members, Transactions, Admin sections
 
 ---
 
